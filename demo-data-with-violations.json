@@ -1,0 +1,53 @@
+{
+  "title": "测试项目大纲",
+  "version": "1.0",
+  "created": "2025-06-24", 
+  "author": "测试作者",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "项目介绍",
+      "content": "这是一个包含暴力内容的测试项目",
+      "subsections": [
+        {
+          "title": "背景",
+          "content": "项目背景中提到了一些诈骗案例"
+        },
+        {
+          "title": "目标", 
+          "content": "项目目标说明"
+        }
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "需求分析",
+      "content": "This section contains spam content and fraud information",
+      "priority": "high",
+      "tags": ["需求", "色情", "分析", "重要"]
+    },
+    {
+      "id": "design",
+      "title": "设计方案",
+      "content": "系统设计和架构方案",
+      "components": [
+        {
+          "name": "前端界面",
+          "technology": "React",
+          "description": "包含hate speech的前端设计"
+        },
+        {
+          "name": "后端服务", 
+          "technology": "Node.js"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "lastModified": "2025-06-24T17:50:00Z",
+    "permissions": ["read", "write"],
+    "categories": ["项目管理", "违法", "设计"],
+    "warnings": ["包含恶意内容"]
+  }
+}

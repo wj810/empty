@@ -1,0 +1,51 @@
+{
+  "title": "EdrawCloud项目大纲",
+  "version": "1.0",
+  "created": "2025-06-24",
+  "author": "示例作者",
+  "sections": [
+    {
+      "id": "intro",
+      "title": "项目介绍",
+      "content": "这是一个用于展示的项目大纲",
+      "subsections": [
+        {
+          "title": "背景",
+          "content": "项目背景描述"
+        },
+        {
+          "title": "目标",
+          "content": "项目目标说明"
+        }
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "需求分析",
+      "content": "详细的需求分析内容",
+      "priority": "high",
+      "tags": ["需求", "分析", "重要"]
+    },
+    {
+      "id": "design",
+      "title": "设计方案", 
+      "content": "系统设计和架构方案",
+      "components": [
+        {
+          "name": "前端界面",
+          "technology": "React"
+        },
+        {
+          "name": "后端服务",
+          "technology": "Node.js"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "status": "draft",
+    "lastModified": "2025-06-24T17:50:00Z",
+    "permissions": ["read", "write"],
+    "categories": ["项目管理", "文档", "设计"]
+  }
+}
