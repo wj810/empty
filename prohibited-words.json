@@ -1,0 +1,26 @@
+{
+  "prohibitedWords": [
+    "暴力",
+    "色情",
+    "政治",
+    "恐怖",
+    "诈骗",
+    "赌博",
+    "毒品",
+    "仇恨",
+    "歧视",
+    "侵权",
+    "盗版",
+    "违法",
+    "恶意",
+    "spam",
+    "scam",
+    "fraud",
+    "hate",
+    "violence",
+    "pornography",
+    "terrorism",
+    "discrimination"
+  ],
+  "description": "Configuration file for prohibited words checking"
+}
